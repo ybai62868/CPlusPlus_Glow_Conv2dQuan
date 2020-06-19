@@ -1,2 +1,11 @@
-# CPlusPlus_Glow_Conv2dQuan
-This is a repo for re-implement the Conv2dQuan Operator in Glow.
+# C-_Test_Glow_QuanConv2D
+
+## Testing the QuanConv2D in glow by C++.
+---
+Compile the program:
+
+g++ main.cpp -o a.out
+
+execute the program:
+
+./a.out
